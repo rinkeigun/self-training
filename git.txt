@@ -1,0 +1,10 @@
+保存場所の確保
+gitのインストール
+管理の基本
+プロジェクトの作成
+ディレクトリ作成
+git init
+git add 
+git commit -m "first commit"
+git remote add origin https://github.com/rinkeigun/Basic-Usage-of-Git.git
+git push -u origin master
